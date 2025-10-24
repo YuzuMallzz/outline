@@ -8,18 +8,8 @@ body{
 }
 
 pre {
-  color : orangered;
+  color: orangered;
   font-family: "Times New Roman", serif;
-}
-  .garis-love {
-  text-align: left;
-  font-size: 24px;
-  letter-spacing: 10px;
-  color: yellow;
-}
-
-pre .garis-love::before {
-  content: "❤️❤️❤️❤️❤️❤️❤️❤️";
 }
 
 .border-love {
